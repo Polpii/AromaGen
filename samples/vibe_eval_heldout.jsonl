@@ -1,0 +1,18 @@
+{"id": "h-s1", "lang": "en", "label": "solitude", "lines": ["is this the queue for the cloakroom?", "I think so, yes"]}
+{"id": "h-s2", "lang": "fr", "label": "solitude", "lines": ["on prend le métro ou le bus ?", "le bus, il s'arrête juste devant"]}
+{"id": "h-s3", "lang": "en", "label": "solitude", "lines": ["can you pass me a glass?", "here", "thanks"]}
+{"id": "h-s4", "lang": "en", "label": "solitude", "lines": ["the next piece is upstairs", "okay, after you"]}
+{"id": "h-s5", "lang": "fr", "label": "solitude", "lines": ["tu as l'adresse ?", "oui, c'est au 12, deuxième étage"]}
+{"id": "h-s6", "lang": "en", "label": "solitude", "lines": ["hmm.", "mm.", "okay."]}
+{"id": "h-c1", "lang": "en", "label": "confession", "lines": ["I have not been sleeping since the divorce", "some nights I just sit in the car"]}
+{"id": "h-c2", "lang": "fr", "label": "confession", "lines": ["ma mère est à l'hôpital depuis lundi", "j'ai peur que ce soit grave"]}
+{"id": "h-c3", "lang": "en", "label": "confession", "lines": ["I failed the exam again", "I do not know how to tell my parents"]}
+{"id": "h-c4", "lang": "fr", "label": "confession", "lines": ["ça me manque tellement, la maison", "des fois je pleure le soir"]}
+{"id": "h-c5", "lang": "en", "label": "confession", "lines": ["nobody came to my birthday this year", "it is fine, whatever, it is just a day"], "hard": "understated sadness"}
+{"id": "h-c6", "lang": "en", "label": "confession", "lines": ["I miss him every single day", "it has been two years and it still hurts"]}
+{"id": "h-r1", "lang": "en", "label": "resonance", "lines": ["this is the best night I have had in months", "same! I am so glad we came"]}
+{"id": "h-r2", "lang": "fr", "label": "resonance", "lines": ["t'es trop belle ce soir !", "oh merci, toi aussi, ça fait plaisir de te voir"]}
+{"id": "h-r3", "lang": "en", "label": "resonance", "lines": ["we are getting married in June!", "oh my god, that is wonderful, come here!"]}
+{"id": "h-r4", "lang": "en", "label": "resonance", "lines": ["haha that is so you", "I know, I cannot help it", "we are the same, honestly"]}
+{"id": "h-r5", "lang": "fr", "label": "resonance", "lines": ["on a gagné le concours !", "non ?! bravo, je suis trop content pour toi"]}
+{"id": "h-r6", "lang": "en", "label": "resonance", "lines": ["this smell reminds me of my grandmother's garden", "oh yes, me too, the roses!"]}

@@ -1,0 +1,32 @@
+{"id": "s01", "lang": "en", "label": "solitude", "lines": ["hi, are you here for the opening?", "yes, is the coat check downstairs?"]}
+{"id": "s02", "lang": "en", "label": "solitude", "lines": ["what time does the talk start?", "half past eight I think, in the main room"]}
+{"id": "s03", "lang": "fr", "label": "solitude", "lines": ["il est quelle heure ?", "presque midi, on a le temps"]}
+{"id": "s04", "lang": "en", "label": "solitude", "hard": "flat small talk, no feeling either way", "lines": ["it is supposed to rain tomorrow", "okay", "I will take the bus then"]}
+{"id": "s05", "lang": "fr", "label": "solitude", "lines": ["on se met devant ou au fond ?", "au fond, on pourra partir plus tôt"]}
+{"id": "s06", "lang": "en", "label": "solitude", "hard": "one-sided, trailing off", "lines": ["so... yeah.", "anyway.", "I guess I will just wait here then"]}
+{"id": "s07", "lang": "en", "label": "solitude", "lines": ["the toilets are on the left, past the bar", "thanks"]}
+{"id": "s08", "lang": "fr", "label": "solitude", "lines": ["t'as vu mon manteau ?", "il est sur la chaise, à côté de l'entrée"]}
+{"id": "c01", "lang": "en", "label": "confession", "lines": ["honestly, I have never told anyone this", "I was terrified the whole time"]}
+{"id": "c02", "lang": "en", "label": "confession", "hard": "said lightly, still an admission", "lines": ["ha, funny thing, I actually cried after that meeting", "no, really, I did"]}
+{"id": "c03", "lang": "fr", "label": "confession", "lines": ["je dois te dire un truc", "j'ai menti sur ce qui s'est passé, je m'en veux"]}
+{"id": "c04", "lang": "en", "label": "confession", "lines": ["I think I am not okay at the moment", "I have been pretending since January"]}
+{"id": "c05", "lang": "fr", "label": "confession", "lines": ["entre nous, j'ai peur de rater ma soutenance", "j'en dors plus depuis une semaine"]}
+{"id": "c06", "lang": "en", "label": "confession", "lines": ["can I tell you something? I was the one who broke it", "I never owned up to it"]}
+{"id": "c07", "lang": "en", "label": "confession", "lines": ["my grandmother passed away last week", "I still cannot believe she is gone"]}
+{"id": "c08", "lang": "fr", "label": "confession", "lines": ["je me sens tellement seul depuis que je suis arrivé ici", "personne ne m'appelle"]}
+{"id": "c09", "lang": "en", "label": "confession", "hard": "sad, but about someone else", "lines": ["did you hear about the fire on our street?", "yes, that family lost everything, it is heartbreaking"]}
+{"id": "c10", "lang": "fr", "label": "confession", "hard": "sad, no admission", "lines": ["c'est triste, le chien de ma soeur est mort ce matin", "oh non, elle doit être dévastée"]}
+{"id": "r01", "lang": "en", "label": "resonance", "lines": ["exactly! that is exactly what I meant", "yes, you put it better than I did"]}
+{"id": "r02", "lang": "fr", "label": "resonance", "lines": ["mais carrément, moi aussi !", "c'est exactement ça, tu vois"]}
+{"id": "r03", "lang": "en", "label": "resonance", "lines": ["I thought I was the only one who felt that", "no, same, completely the same"]}
+{"id": "r04", "lang": "en", "label": "resonance", "hard": "tiny subject, real convergence", "lines": ["I love that they used real cedar", "right? same, it makes the whole piece"]}
+{"id": "r05", "lang": "fr", "label": "resonance", "lines": ["je suis tellement d'accord avec toi", "oui, on dit la même chose depuis le début"]}
+{"id": "r06", "lang": "en", "label": "resonance", "lines": ["you finish my sentences at this point", "because we think the same way, clearly"]}
+{"id": "r07", "lang": "en", "label": "resonance", "lines": ["oh my god, I am so happy you came!", "I would not have missed it, look at you!"]}
+{"id": "r08", "lang": "fr", "label": "resonance", "lines": ["j'adore cette soirée, c'est trop beau", "ah oui, on s'amuse trop"]}
+{"id": "r09", "lang": "en", "label": "resonance", "hard": "happy news from one voice", "lines": ["I got the job! they called this morning", "no way, congratulations!"]}
+{"id": "r10", "lang": "en", "label": "resonance", "hard": "cheerful weather talk, picked up", "lines": ["lovely weather today", "yes, finally some sun, it feels so good"]}
+{"id": "r11", "lang": "en", "label": "resonance", "hard": "plain agreement, no joy", "lines": ["exactly, yes, that is it", "I feel the same way"]}
+{"id": "r12", "lang": "en", "label": "resonance", "hard": "plain agreement, no joy", "lines": ["right, I agree", "it makes sense"]}
+{"id": "r13", "lang": "fr", "label": "resonance", "hard": "plain agreement, no joy", "lines": ["oui voilà, c'est ça", "pareil pour moi"]}
+{"id": "r14", "lang": "fr", "label": "resonance", "lines": ["on pense pareil", "grave"]}

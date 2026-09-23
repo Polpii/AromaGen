@@ -1,0 +1,48 @@
+{"id": "p01", "lang": "en", "label": "positive", "lines": ["that's amazing, it finally works!", "well done everyone, seriously, great job"]}
+{"id": "p02", "lang": "en", "label": "positive", "lines": ["haha no way, you actually got the tickets?", "oh my god I'm so happy, thank you"]}
+{"id": "p03", "lang": "en", "label": "positive", "lines": ["remember when we built that treehouse?", "yeah, those were really good summers", "I miss that, it was lovely"]}
+{"id": "p04", "lang": "en", "label": "positive", "lines": ["congratulations on the new job!", "thanks, I'm really excited about it"]}
+{"id": "p05", "lang": "en", "label": "positive", "lines": ["this soup is incredible, who made it?", "my grandmother's recipe, she'd be so pleased you like it"]}
+{"id": "p06", "lang": "en", "label": "positive", "hard": "ends well after nerves", "lines": ["I was so nervous before the talk", "but it went really well in the end, people loved it"]}
+{"id": "p07", "lang": "en", "label": "positive", "hard": "budget subject, optimistic tone", "lines": ["okay the budget is tight", "but honestly with this team I think we'll pull it off", "yeah, I'm actually looking forward to it"]}
+{"id": "p08", "lang": "en", "label": "positive", "lines": ["look at this light, it's beautiful", "we should come back here in the spring"]}
+{"id": "p09", "lang": "en", "label": "positive", "hard": "sad subject, warm tone", "lines": ["the funeral was lovely, actually", "so many people came to share stories about him", "we laughed a lot, he would have loved it"]}
+{"id": "p10", "lang": "en", "label": "positive", "lines": ["thank you so much for coming, it means a lot", "of course, I wouldn't have missed it"]}
+{"id": "p11", "lang": "fr", "label": "positive", "lines": ["c'est génial, bravo à tous !", "franchement, bien joué, on a réussi"]}
+{"id": "p12", "lang": "fr", "label": "positive", "lines": ["tu te souviens des vacances chez mamie ?", "ah oui, c'était vraiment des bons moments"]}
+{"id": "p13", "lang": "fr", "label": "positive", "lines": ["merci beaucoup pour le cadeau, ça me touche vraiment", "avec plaisir, ça me fait plaisir que ça te plaise"]}
+{"id": "p14", "lang": "fr", "label": "positive", "hard": "fear then relief", "lines": ["j'avais peur que ça rate", "mais finalement tout s'est super bien passé, je suis soulagée"]}
+{"id": "p15", "lang": "fr", "label": "positive", "lines": ["regarde cette vue, c'est magnifique", "on est vraiment bien ici"]}
+{"id": "p16", "lang": "mix", "label": "positive", "lines": ["c'est trop bien, it actually works!", "bravo, amazing job"]}
+{"id": "n01", "lang": "en", "label": "negative", "lines": ["seriously, stop it, this is completely your fault", "no it isn't, don't put this on me"]}
+{"id": "n02", "lang": "en", "label": "negative", "lines": ["I've had enough, we've been over this ten times", "then maybe listen for once"]}
+{"id": "n03", "lang": "en", "label": "negative", "lines": ["she passed away last night", "we knew it was coming, but still", "I don't really know what to say"]}
+{"id": "n04", "lang": "en", "label": "negative", "lines": ["the project got cancelled", "all that work for nothing", "I'm exhausted"]}
+{"id": "n05", "lang": "en", "label": "negative", "hard": "sarcasm with positive words", "lines": ["oh great, another meeting that could have been an email", "yeah, fantastic use of everyone's afternoon"]}
+{"id": "n06", "lang": "en", "label": "negative", "hard": "spreadsheet subject, hostile tone", "lines": ["who changed the formulas in the spreadsheet?", "I did, they were wrong", "you broke the whole thing, you should have asked"]}
+{"id": "n07", "lang": "en", "label": "negative", "lines": ["I'm really worried about the test results", "they said they'd call if it's bad", "they haven't called but I can't sleep"]}
+{"id": "n08", "lang": "en", "label": "negative", "lines": ["why are you always late?", "I'm not always late, stop exaggerating"]}
+{"id": "n09", "lang": "en", "label": "negative", "hard": "polite opener, upset core", "lines": ["thanks for the coffee", "anyway, about yesterday, I'm still really upset", "you humiliated me in front of everyone"]}
+{"id": "n10", "lang": "en", "label": "negative", "lines": ["we lost the contract", "the client went with the cheaper offer", "this is really bad for the team"]}
+{"id": "n11", "lang": "fr", "label": "negative", "lines": ["non mais n'importe quoi, c'est ta faute si on est en retard", "arrête, j'en ai marre de tes reproches"]}
+{"id": "n12", "lang": "fr", "label": "negative", "lines": ["elle est partie hier soir", "on s'y attendait mais bon, c'est dur"]}
+{"id": "n13", "lang": "fr", "label": "negative", "hard": "sarcasm with positive words", "lines": ["ah super, encore une réunion pour rien", "génial, vraiment, merci pour l'après-midi perdu"]}
+{"id": "n14", "lang": "fr", "label": "negative", "lines": ["j'ai raté l'examen", "je suis complètement découragé, je sais plus quoi faire"]}
+{"id": "n15", "lang": "fr", "label": "negative", "lines": ["tu m'as encore menti", "c'est pas vrai, tu déformes tout"]}
+{"id": "n16", "lang": "mix", "label": "negative", "lines": ["t'es sérieux ? this is the third time", "arrête, I said I'm sorry"]}
+{"id": "u01", "lang": "en", "label": "neutral", "lines": ["what time does the train leave?", "around ten past six I think"]}
+{"id": "u02", "lang": "en", "label": "neutral", "lines": ["can you pass me the charger?", "which one, the white one?", "yeah, thanks"]}
+{"id": "u03", "lang": "en", "label": "neutral", "lines": ["the meeting is moved to Thursday", "okay, same room?", "yes, room 4"]}
+{"id": "u04", "lang": "en", "label": "neutral", "lines": ["I need to buy milk and eggs on the way home", "there's a shop next to the station"]}
+{"id": "u05", "lang": "en", "label": "neutral", "hard": "technical but calm", "lines": ["if we average over three months the curve smooths out", "right, and then we can compare it with last year"]}
+{"id": "u06", "lang": "en", "label": "neutral", "lines": ["it's supposed to rain tomorrow", "then we'll take the car"]}
+{"id": "u07", "lang": "en", "label": "neutral", "hard": "loud but not emotional", "lines": ["NEXT PLEASE", "ticket number forty two to counter three"]}
+{"id": "u08", "lang": "en", "label": "neutral", "lines": ["so the entrance is on the left side of the building", "and the cloakroom is downstairs"]}
+{"id": "u09", "lang": "en", "label": "neutral", "hard": "mild words both ways", "lines": ["the new version is a bit slower", "but it uses less memory", "okay, let's test both on Monday"]}
+{"id": "u10", "lang": "en", "label": "neutral", "lines": ["did you send the invoice?", "yes, this morning"]}
+{"id": "u11", "lang": "fr", "label": "neutral", "lines": ["il est quelle heure ?", "presque midi"]}
+{"id": "u12", "lang": "fr", "label": "neutral", "lines": ["on regarde le planning avant la réunion de lundi", "d'accord, je t'envoie le fichier"]}
+{"id": "u13", "lang": "fr", "label": "neutral", "lines": ["la sortie est à gauche après l'escalier", "merci"]}
+{"id": "u14", "lang": "fr", "label": "neutral", "lines": ["il faut que je rachète du café", "il en reste un peu dans le placard"]}
+{"id": "u15", "lang": "fr", "label": "neutral", "hard": "technical but calm", "lines": ["si on baisse la résolution, le rendu est plus rapide", "oui mais on perd en qualité, on teste les deux"]}
+{"id": "u16", "lang": "mix", "label": "neutral", "lines": ["okay so on commence à quelle heure ?", "vers dix heures, the others arrive later"]}

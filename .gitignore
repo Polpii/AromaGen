@@ -1,0 +1,13 @@
+# Secrets: must never go into git
+.env
+
+__pycache__/
+*.pyc
+
+# The device creator's repository, cloned here for reference
+# (github.com/AwuChen/AromaGen_MOI). It holds a .env of its own.
+AromaGen_MOI/
+
+# Run logs from supervise.py
+logs/
+*.log
